@@ -30,9 +30,8 @@ The HTML creates the layout of the Tic-Tac-Toe board.
 The CSS styles the board and makes it visually appealing.
 The JavaScript handles player input, checks for win conditions, and manages game flow.
 
-🎮 Demo
-Check out a live demo of the Tic-Tac-Toe game here: Live Demo
-
+## 🎮 Demo
+[Check out a live demo of the Tic-Tac-Toe game here: Live Demo](https://xo-tac.netlify.app/)
 ## 📅 Usage
    Clone the repository:
 
