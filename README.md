@@ -46,4 +46,4 @@ Score Tracking: Keep track of wins and losses for each player.
 User Customization: Allow users to customize their symbols and game board colors.
 
 
-Connect with me ❤️
+## Connect with me ❤️
