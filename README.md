@@ -2,7 +2,7 @@
 
 Welcome to the Tic-Tac-Toe Game! This classic game allows you to play against a friend or challenge yourself against a simple AI. The objective is to get three of your marks in a row, whether horizontally, vertically, or diagonally.
 
-#3 🚀 Features
+## 🚀 Features
 
 Single-player Mode: Play against a simple AI.
 Multiplayer Mode: Challenge a friend in local gameplay.
